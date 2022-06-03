@@ -3,3 +3,11 @@
  max-width: 960px;
  margin: auto;
 }
+h1{
+ font-weight: 300;
+ font-size: 48pt;
+}
+.line{
+ width: 100%;
+ border-bottom: 2px solid #4C4C4C;
+}
