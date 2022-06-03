@@ -35,3 +35,15 @@ Pillow</h2>
 <li>White Rabbit</li>
 <li>Plastic Fantastic Lover</li>
 </ol>
+.image-wraper {
+ width: 25%;
+ float: left;
+}
+.cover-image {
+ max-width: 150px;
+ width: 90%;
+ padding: 5%;
+ margin: auto;
+ margin-top: 20px;
+display: block;
+}
